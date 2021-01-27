@@ -12,3 +12,5 @@
   - Elevation of site
   - Elevation difference (i.e. topography) of site
   - Min, max and mean temperatures of site
+- 'Model Training.ipynb' is the file used for model training
+- 'Final Model for Prediction Use' is the file to use for prediction on unseen samples
