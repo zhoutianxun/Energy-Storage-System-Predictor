@@ -14,3 +14,12 @@
   - Min, max and mean temperatures of site
 - 'Model Training.ipynb' is the file used for model training
 - 'Final Model for Prediction Use' is the file to use for prediction on unseen samples
+
+## Dependencies
+- Packages
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - sklearn
+  - xgboost
